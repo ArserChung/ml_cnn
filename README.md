@@ -1,7 +1,8 @@
 # CNN(Convolution Nerual Network)
 ## INTRO ME
 if u have any opnion or problem . pls mail or mess me
-every sorce are open to learing or create new pro . 
+every sorce are open to learing or create new proj . i am no very skill so hope you be patiend to teach me thank
+
 ## Basis strutrue
 ![unnamed](https://github.com/user-attachments/assets/b7f03c0e-f078-4502-8320-91d457321f00)
 
