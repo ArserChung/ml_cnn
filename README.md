@@ -1,4 +1,8 @@
 # CNN(Convolution Nerual Network)
+## INTRO ME
+if u have any opnion or problem . pls mail or mess me
+every sorce are open to learing or create new pro . 
+## Basis strutrue
 ![unnamed](https://github.com/user-attachments/assets/b7f03c0e-f078-4502-8320-91d457321f00)
 
 ## 卷積的基本原理
