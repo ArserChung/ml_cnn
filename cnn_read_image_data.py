@@ -66,7 +66,10 @@ print("train_feature shpae="+str(train_feature.shape))
 print("test feature shpae="+str(test_feature.shape))
 print("train label shpae="+str(train_label.shape))
 print("test_label shpae="+str(test_label.shape))
-
+#(19956,40,40,3)
+#(19956,)
+#(4990,40,40,3)
+#(4990,g)
 
 #np.save(fileName.npy,num arrary,[allow_pickle=True],
 #                                   [fix_import=True])
