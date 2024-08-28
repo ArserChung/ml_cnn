@@ -26,7 +26,7 @@ prediction = model.predict(test_feature)
 
 
 
-for i in range(100):
+for i in range(len(test_label)):
     show_image(test_feature[i],test_label[i])
     arg = np.argmax(prediction[i])
     pre = pet[arg]
